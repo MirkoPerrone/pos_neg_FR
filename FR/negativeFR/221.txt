@@ -1,0 +1,1 @@
+L'appareil était branché à mon ordi fixe sans interruption. Au bout de 6 mois : l'ordinateur se connecte au Wi-Fi, internet fonctionne. 30 min plus tard, internet ne fonctionne plus alors que l'ordinateur indique que la connexion Wi-Fi est établie. Si on le rebranche immédiatemment, le Wi-Fi fonctionne 2min, et si on attend 5 min avant de rebrancher, le Wi-Fi fonctionne 30min.

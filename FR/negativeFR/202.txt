@@ -1,0 +1,1 @@
+"Outil non fini, interface baclée, ne fonctionne pas comme attendu malgré des tests à 2m. On va attendre quelques mois avant de se mettre en mode ""AC"""

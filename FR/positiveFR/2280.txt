@@ -1,0 +1,1 @@
+Ayant une Chromecast et la vieille box de Numéricable avec du wifi 802.11g, la lecture de fichiers sur le réseau local était parfois difficile. Avec ce routeur et un switch 1 Gbps, y a du changement et c'est beaucoup mieux !!! Pas mal d'options pour la configurer. Pour un petit réseau chez soi, niveau prix c'est parfait !

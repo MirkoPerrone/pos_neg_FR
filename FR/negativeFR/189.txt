@@ -1,0 +1,1 @@
+Produit ok, mais il est dommage que la version hardware du produit soit une vielle version (V1.1) de début 2013, nous sommes actuellement fin 2014 et à la version 3 du hardware. Cette version (V1.1) ne me permet pas de passer au firmware OpenWRT avec toutes ses fonctionnalités (perte du 5Ghz). Dommage car tel était le but de mon achat !

@@ -1,0 +1,1 @@
+Fonctionne parfaitement avec openwrt. Beaucoup de mémoire, beaucoup de flash, bon cpu, bonnes interfaces réseau. Aucun reproche pour le moment, très bon rapport qualité prix

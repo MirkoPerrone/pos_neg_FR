@@ -1,0 +1,1 @@
+Ce cable ne foncitonne pas. Il perd sa connection en deux secopndes et ne la retrouve pas. Donc c'est inutile.

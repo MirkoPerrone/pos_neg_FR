@@ -1,0 +1,1 @@
+Reconnu sans problème sous Ubuntu mais capte très mal le réseau si l'ordi et la box ne sont pas dans la même pièce.

@@ -1,0 +1,1 @@
+quand on le branche il se connecte dconnecte sans arrte toutes les milisecondes. Impossible de le brancher sur un ordinateur. J'aime pas

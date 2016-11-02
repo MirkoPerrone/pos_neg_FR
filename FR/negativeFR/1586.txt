@@ -1,0 +1,1 @@
+"Je suis tombé dans le piège : Ce lecteur de ""Carte SD MiniSD MMC T-Flash"" ne lit pas les cartes miniSD - Il lit les adapteurs SD/mini SD ! C'est subtile !"

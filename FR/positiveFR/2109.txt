@@ -1,0 +1,1 @@
+Très satisfait. J'ai une meilleure signal en 2.4 ghz et une performance équivalente à ethernet en 5 ghz (dans la même chambre du routeur). Le wifi g de mon ancien routeur reste désactivé, car devenu obsolète. Il faut le connecter via ethernet dans l'un des ports jaunes, pour rester dans le même reseau du routeur du FAI (et desactiver le DHCP du Archer dans ce cas là).

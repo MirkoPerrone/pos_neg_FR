@@ -1,0 +1,1 @@
+Utilisé comme alimentation pour une carte Raspberry Pi pour une application de timelapes. +/- 10 heures d'autonomie sans trop de problèmes.

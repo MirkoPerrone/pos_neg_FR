@@ -1,0 +1,1 @@
+Pas de driver natif pour linux, impossible de le trouver. Du coup j'ai du la changer pour une autre clé.

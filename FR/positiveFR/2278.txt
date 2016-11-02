@@ -1,0 +1,1 @@
+Ce n'est pas le premier produit de la marque TP-Link que j’achète, et je suis satisfait de tout leurs produits. Configuration simple (enfin pour moi), et le produit est efficace et de bonne portée. Attention, après la mise à jour du firmware et donc la remise à zero de la configuration, l'adresse de configuration change (192.168.0.1 au lieu de 192.168.1.1, enfin de tête).

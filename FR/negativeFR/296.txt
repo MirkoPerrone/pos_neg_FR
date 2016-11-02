@@ -1,0 +1,1 @@
+La clé a fonctionné 5mn, puis en panne ! La clé ne détecte plus aucun réseaux : testé sur plusieurs machine et OS.

@@ -1,0 +1,1 @@
+Souris et clavier s'installent parfaitement et automatiquement sur Windows 8.1, mais la clavier se révèle non fiable, aléatoire: des lettres et des chiffres sont impossibles à produire ou apparaissent de manière aléatoire au bout de plusieurs secondes d'attente.

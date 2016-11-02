@@ -1,0 +1,1 @@
+Branché sur une box fibre, permet d'avoir un très bon débit à proximité (2/3 mètres). Même plus éloigné, le débit descend pas mal mais reste correct. Après, tout va dépendre de la configuration de la maison et de l'emplacement.

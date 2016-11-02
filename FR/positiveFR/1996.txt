@@ -1,0 +1,1 @@
+A part quelques complications pour le paramétrage. Il faut s'y connaître un minimum en réseau. Une fois installé le routeur fonctionne parfaitement et relaie le réseau Wifi mieux que la freebox elle meme

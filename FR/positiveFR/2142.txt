@@ -1,0 +1,1 @@
+La version est bien V9, j'ai pu installer DD-WRT dessus sans problème (cherchez TP-Link WR841N/ND V9 DD-WRT Firmware Upgrade sur youtube) Livré avec emballage hermétique + 1 cable ethernet + prise d'alimentation Merci :)

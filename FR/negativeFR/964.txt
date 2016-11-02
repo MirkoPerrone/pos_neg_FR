@@ -1,0 +1,1 @@
+Charge bien mais saute en permanence (se déconnecte et se reconnecte) sur le port USB de la voiture. Très ennuyeux pour écouter de la musique

@@ -1,0 +1,1 @@
+le cordon ne se clipse pas dans la prise éthernet. Il s'enfonce simplement et il faut le maintenir. Du coup il se défait de la prise et se déconnecte.

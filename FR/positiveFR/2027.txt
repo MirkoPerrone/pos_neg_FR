@@ -1,0 +1,1 @@
+Il fonctionne du premier coup même dans un environnement très hétérogène. L'interface est intuitive tout en proposant pas mal d'options. Il faut juste faire l'effort d'aller sur le site de TP-Link pour récupérer le dernier firmware.

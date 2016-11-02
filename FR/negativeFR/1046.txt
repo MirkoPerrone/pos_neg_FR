@@ -1,0 +1,1 @@
+Le cast n'arrête pas de se déconnecter. Il régulièrement refaire la connexion quand cela veut bien marcher ce qui n'est pas toujours le cas. Il faut parfois débrancher puis rebrancher, voir reseter à plusieurs reprises. Par ailleurs, l'adaptateur chauffe beaucoup. Je pense le renvoyer au SAV.

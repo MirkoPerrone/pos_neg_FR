@@ -1,0 +1,1 @@
+Flasher avec opendwrt , la version recue est un v9 , apres flash sans soucis : puissance reglable a 1 watts ( testé ) avec analyseur de spectre Agilent Tech . Meme flashé la fonction du bouton coupure wifi fonctionne , et reste environ 400 ko de flash pour installer un client TOR.

@@ -1,0 +1,1 @@
+s 'es arrette' de fonctionner apres 30 jours d'utilisation, donc impossible de le renvoyer... de plus le debut de 150 mo/s n'est pas terrible une de 300 mo/s devrait etre mieux, bref, je ne suis pas content :(

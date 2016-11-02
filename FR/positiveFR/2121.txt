@@ -1,0 +1,1 @@
+Très bon routeur. Penser à mettre à jour le firmware dès réception. Pour configurer comme un point d'accès, ne rien brancher sur la prise WAN, mettre l'adresse IP du routeur dans LAN à la place du 192.168.0.2, et enfin désactiver le DHCP si il est pris en charge par votre box.

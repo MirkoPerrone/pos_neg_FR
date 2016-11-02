@@ -1,0 +1,1 @@
+fait le job ATTENTION A SELECTIONNER LE CANAL D4EMISSION EN 5GH POUR POUVOIR VOIR LE RESEAU CREE (en allant dans la configuration du routeur /je suis newbee et ai renvoyé par erreur un produit, croyant qu'il n'emettait pas en 5 GH, defaut de la notice non assez explicite )

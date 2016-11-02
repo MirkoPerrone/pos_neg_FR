@@ -1,0 +1,1 @@
+solide, beau, se charge rapidement et charge rapidement mon Lumia une petite led indique l'tat (en charge ou entrain de charger), bien pratique que demander de plus

@@ -1,0 +1,1 @@
+Mise en marche facile et connexion stable. J'utilise ce routeur dans les résidences étudiante du CROUS qui offre seulement un accès ethernet. Donc pour ceux qui sont dans le même cas que moi, ca marche :)

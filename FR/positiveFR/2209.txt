@@ -1,0 +1,1 @@
+"This product is supported by OpenWRT (Chaos Calmer release), and it has a ""un-brick your router"" TFTP procedure embedded in its firmware."

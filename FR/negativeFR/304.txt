@@ -1,0 +1,1 @@
+Le fait de brancher la clé sur une entrée USB de mon ordinateur portable a immédiatement entraîné un Crash Dump avec arrêt de ma machine et écran noir ! J'ai testé la clé deux fois avec le même résultat. J'ai un Toshiba Satellite et je suis sur windows 7. Attention donc !

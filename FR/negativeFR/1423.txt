@@ -1,0 +1,1 @@
+"j'ai un souci de compatibilité avec un Lenovo 430 il fige l'écran et affiche un message ""PROCESS_HAS_LOCKED_PAGES"" que faire ? Comment le renvoyer alors qu'il à été utilisé 24H ?"

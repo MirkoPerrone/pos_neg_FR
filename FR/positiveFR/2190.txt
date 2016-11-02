@@ -1,0 +1,1 @@
+Immediately flashed with OpenWRT. This Router is working like a charm, VPN tunnel works just great and is very stable. No failures so far.

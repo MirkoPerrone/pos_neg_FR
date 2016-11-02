@@ -1,0 +1,1 @@
+Nul c'est cens marcher sur un Raspberry Pi et bien a ne marche pas du tout sur un modle B+, malgr plusieurs heures passer ˆ essayer de le faire fonctionner, a ne donne rien. A fuir.

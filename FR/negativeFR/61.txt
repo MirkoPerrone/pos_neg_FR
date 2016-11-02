@@ -1,0 +1,1 @@
+La batterie peut se recharger (la LED s'allume pour l’attester), mais elle ne peut pas recharger de portable. Testé avec 3 portables différents, avec 3 câbles différents. Problème connu de ce produit car une autre personne dans ces commentaires a eu ce problème.

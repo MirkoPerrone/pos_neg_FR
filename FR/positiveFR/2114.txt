@@ -1,0 +1,1 @@
+Utilisé pour créer un point d'accès wifi dans un bâtiment au bout de 50 m de câble reseau. Déballé le routeur branché rj45 et alimentation. Utilisation du bouton WPS sur le routeur et sur chaque appareil ( tels et tablettes) pour l'appairage en WPA2 configuré par défaut. Tout ça en 2 min sans ouvrir la doc. Que demander de plus ?

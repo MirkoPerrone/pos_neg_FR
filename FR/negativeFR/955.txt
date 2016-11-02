@@ -1,0 +1,1 @@
+Objet qui ne fonctionne pas , quand je le branche un message s'affiche disant que cet objet n'est pas certifié par Apple je demande un remboursement

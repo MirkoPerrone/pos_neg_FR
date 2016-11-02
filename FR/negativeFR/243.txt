@@ -1,0 +1,1 @@
+requière une interface USB dernière génération, ne fonctionne donc pas sur les vieux PC. De plus, impossible à faire fonctionner sous Linux à fuir pour les utilisateurs Linux.

@@ -1,0 +1,1 @@
+Clavier sans fil, connecté via module 2.4GHz fourni. C'est un clavier vraiment tout petit et bien pratique pour faire du Raspberry Pi. Il est reconnu automatiquement.

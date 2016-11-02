@@ -1,0 +1,1 @@
+"Livré en 4 jours. 32Mo de ram, 4 Mo de flash compatible OpenWRT et DD-WRT - WIFi-N à 300 MBITS. Acheter l'adaptateur série TTL/USB pour le ""débricker"" en cas de flashage avec des firmware trop advanced."

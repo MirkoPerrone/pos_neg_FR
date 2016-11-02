@@ -1,0 +1,1 @@
+Installation sans problème, tout marche comme prévu et grâce à l'ADSL2+ j'ai gagné 80KB/S malgré que théoriquement l'ADSL2+ a les mêmes performances que l'ADSL à 4400m du DSLAM. Seul problème mineur: l'interface de contrôle ne marche pas bien avec firefox, avec IE aucun soucis.

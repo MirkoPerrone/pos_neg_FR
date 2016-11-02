@@ -1,0 +1,1 @@
+La batterie fonctionne bien simplement, elle fait 15A en 3,3volt donc en 5volt elle fait moins de 15A. Je n'ai pas ˆ m'en peindre outre mesure.

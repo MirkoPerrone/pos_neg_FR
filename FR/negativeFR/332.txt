@@ -1,0 +1,1 @@
+J'ai changé de modem ADSL pour ce routeur en espérant gagner en force de signal. ça a amélioré très très (trop) légèrement. Mais je l'ai gardé car maintenant je suis en wpa. Avant j'étais en wep.

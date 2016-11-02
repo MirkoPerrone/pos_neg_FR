@@ -1,0 +1,1 @@
+"Il s'affiche bien sur mon écran de Mac mais il ne recopie pas les fichiers. Il semblerait être bloqué sur ""lecture seule"" (on lit le mode d'emploi! à l'écran, le seul fichier qu'il contient)"

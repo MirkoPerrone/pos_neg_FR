@@ -1,0 +1,1 @@
+Pour tre juste, je n'ai test cet adaptateur que sur un Raspberri Pi B Model 2. Ce dernier est toutefois trs vloce pour un nano ordinateur. Compar ˆ la vitesse que j'obtiens chez moi avec ordinateurs, tablettes et smartphones, cet adapteur est d'une incroyable lenteur qui pousse ˆ se servir du connecteur Ethernet.

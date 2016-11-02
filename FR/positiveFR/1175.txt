@@ -1,0 +1,1 @@
+pratique permet de charger mon note 3 notemment dans les transports comme le train, avion ou bateau où l'ont de dispose pas de prise sous la main. bonne idée avec la petite led pour s'éclairer dans le noire et trouver l'entrée du port micro USB de son téléphone. 2 ports de chargement 1 de 2mA et 1 de 1mA.

@@ -1,0 +1,1 @@
+Version reçue: V2 Routeur facile à configurer, même pour une personne qui n'y connais rien. Une petite difficulté voir le NAS synology branché dessus, mais un changement de l'adresse IP du NAS à réglé le problème

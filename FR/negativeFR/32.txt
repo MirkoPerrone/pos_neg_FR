@@ -1,0 +1,1 @@
+Ne marche qu'avec le dongle pour Windows 8.1 et non vu par android. Le dongle sur Android ne règle pas le soucis

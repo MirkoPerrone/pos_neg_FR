@@ -1,0 +1,1 @@
+Bonjour, Un boitier discret qui peut être mis dans un salon (blanc) Pas de bruit : radiateur passif. Un Wifi de qualité. Non testé : USB et PRINTER. MAIS un soft tp-link qui bride le router. J'ai installé DD-WRT et alors j'ai pu configurer un réseau adhoc ( Internet <=> Box <=> Router <=> PC ...) Livraison : Par fait comme d'habitude avec AMAZON PREMIUM

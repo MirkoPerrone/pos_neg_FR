@@ -1,0 +1,1 @@
+Significant power losses when charging devices. They may be high speed for data (I haven't checked), but they're rubbish for charging.

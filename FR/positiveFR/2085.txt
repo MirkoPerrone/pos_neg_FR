@@ -1,0 +1,1 @@
+Installé avec OpenWrt. C'est maintenant mon couteau suisse du wifi. Il va nous suivre partout en vacances pour partager les accès wifi payant limité à un périphérique.

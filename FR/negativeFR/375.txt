@@ -1,0 +1,1 @@
+Après installation du pilote ça marche pendant 2 minutes et puis silence radio ! Quand je ping mon routeur j'ai systématiquement un time out. Sur Linux, il y a des patchs de pilotes mais aucun ne marche proprement. Produit à fuir.

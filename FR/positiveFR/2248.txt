@@ -1,0 +1,1 @@
+Routeur utile pour les box sans WIFI. Se branche facilement par ethernet, CD fourni pour le PC. Installation très facile.

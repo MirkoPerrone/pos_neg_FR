@@ -1,0 +1,1 @@
+mais après 1 an ne fonctionne plus..... Il détecte bien le périphérique mais impossible de lire le contenu de la carte sd sachant que les fichiers peuvent être via un autre lecteur de carte sd !!
